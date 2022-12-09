@@ -1,4 +1,4 @@
-# Intro_to_Artificial_Intelligence
+# Intro-to-Artificial-Intelligence
 ## 2022-Spring-NYCU by Prof. Yi-Ting Chen
 ### Homework
 1. Face Detection
